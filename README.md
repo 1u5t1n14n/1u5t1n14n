@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1u5t1n14n
 - 👀 I’m interested in GNU/Linux
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: GitHub is owned by Microsoft
 
 <!---
